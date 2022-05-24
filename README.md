@@ -4,7 +4,7 @@
 
 ## Technical Data
 - Author: Eivind Hobrad Naasen
-- Date: September 28nd, 2019
+- Date: September 28th, 2019
 - IDE: QtCreator 4.9.2
 - Language: C++11
 
